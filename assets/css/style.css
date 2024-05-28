@@ -903,6 +903,7 @@ section .container {
   background: #09203a;
   box-sizing: border-box;
   overflow: hidden;
+  overflow-wrap: break-word;
 }
 
 .contact .info-box i.bx {
